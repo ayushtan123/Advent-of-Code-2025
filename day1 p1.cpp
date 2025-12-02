@@ -7,12 +7,12 @@ void fastIO(){
     cin.tie(NULL);
 }
 
-int main()
-{
+int main(){
     fastIO();
     int pos=50;
     int ans=0;
     string s;
+    
     while (getline(cin, s) && !s.empty()){
         char move = s[0];
         int step = stoi(s.substr(1));
