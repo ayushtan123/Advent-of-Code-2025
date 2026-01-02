@@ -2,7 +2,7 @@
 
 This repository contains solutions for Advent of Code 2025
 
-Language : CPP
+**Language** : CPP
 
 Questions solved : 22/23
 
@@ -11,6 +11,7 @@ Questions solved : 22/23
 https://adventofcode.com/2025
 
 **Notes:**
+
 cd "path"
 
 git status
